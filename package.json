@@ -12,7 +12,6 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "@vue/composition-api": "*",
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "express": "^4.17.1",
