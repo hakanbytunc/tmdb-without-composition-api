@@ -1,4 +1,6 @@
-# omdb-task
+# Movie Search Website
+
+Live demo: https://tmdb-task-without-c-api.herokuapp.com
 
 ## Project setup
 ```
